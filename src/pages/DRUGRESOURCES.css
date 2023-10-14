@@ -1,0 +1,230 @@
+.drug-resources-child,
+.drug-resources-item {
+  position: absolute;
+  width: 85.64%;
+  right: 7.18%;
+  left: 7.18%;
+  border-radius: 20px;
+  backdrop-filter: blur(40px);
+  mix-blend-mode: normal;
+}
+.drug-resources-child {
+  height: 20.97%;
+  top: 30.21%;
+  bottom: 48.82%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(57, 145, 151, 0.8),
+    rgba(49, 186, 194, 0.24)
+  );
+}
+.drug-resources-item {
+  height: 14.22%;
+  top: 54.38%;
+  bottom: 31.4%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+}
+.blank-line {
+  margin: 0;
+}
+.wwwalbertaquitsca {
+  color: inherit;
+}
+.provides-coaching-to-quit-smok {
+  margin-bottom: 0;
+}
+.in-alberta-visit-wwwalbertaq {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 16px;
+}
+.in-alberta-visit-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.in-alberta-visit-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 19.91%;
+  width: 67.95%;
+  top: 30.45%;
+  left: 14.36%;
+  font-size: 12px;
+  font-family: Lato;
+  color: #fff;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.blank-line3 {
+  font-family: Lato;
+}
+.video-for-addressing-naloxone {
+  margin: 0;
+  padding-left: 16px;
+}
+.video-for-addressing-container {
+  position: absolute;
+  height: 18.6%;
+  width: 78.46%;
+  top: 51.78%;
+  left: 14.36%;
+  font-size: inherit;
+  color: inherit;
+  display: flex;
+  align-items: center;
+}
+.resources-for-opioids {
+  position: absolute;
+  top: 55.92%;
+  left: 30.26%;
+}
+.drug-resources-inner {
+  position: absolute;
+  height: 16.59%;
+  width: 85.64%;
+  top: 71.8%;
+  right: 7.18%;
+  bottom: 11.61%;
+  left: 7.18%;
+  border-radius: 20px;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+  backdrop-filter: blur(40px);
+  mix-blend-mode: normal;
+}
+.lethbridge-shelter-and {
+  text-decoration: underline;
+}
+.george-spady-centre-container {
+  height: 8.06%;
+  width: 78.46%;
+  top: 76.3%;
+  left: 14.36%;
+  font-size: inherit;
+  font-family: inherit;
+  color: inherit;
+}
+.george-spady-centre-container,
+.resources-for-nicotine,
+.safe-injection-sites {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.safe-injection-sites {
+  height: 2.13%;
+  width: 44.1%;
+  top: 74.41%;
+  left: 18.97%;
+  color: #f8ffff;
+}
+.resources-for-nicotine {
+  height: 3.2%;
+  width: 48.21%;
+  top: 31.4%;
+  left: 29.49%;
+}
+.drug-resources-child1 {
+  position: absolute;
+  height: 8.89%;
+  width: 120.77%;
+  top: 92.18%;
+  right: -8.97%;
+  bottom: -1.07%;
+  left: -11.79%;
+  border-radius: 20px;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+  backdrop-filter: blur(40px);
+  mix-blend-mode: normal;
+}
+.bthome-icon2 {
+  right: 81.28%;
+  left: 7.18%;
+  cursor: pointer;
+}
+.btcompg-icon1,
+.bthome-icon2,
+.btprofpg-icon1,
+.vector-icon11 {
+  position: absolute;
+  height: 5.33%;
+  width: 11.54%;
+  top: 93.25%;
+  bottom: 1.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.btcompg-icon1 {
+  right: 34.87%;
+  left: 53.59%;
+  cursor: pointer;
+}
+.btprofpg-icon1,
+.vector-icon11 {
+  right: 58.21%;
+  left: 30.26%;
+}
+.btprofpg-icon1 {
+  right: 7.18%;
+  left: 81.28%;
+  cursor: pointer;
+}
+.gold-trophy-in-air1 {
+  position: absolute;
+  top: 117px;
+  left: 146px;
+  width: 120.71px;
+  height: 138.46px;
+  object-fit: cover;
+}
+.drug-resources1 {
+  position: absolute;
+  height: 9.12%;
+  width: 74.87%;
+  top: 3.2%;
+  left: 12.05%;
+  font-size: 46px;
+  display: inline-block;
+  text-align: center;
+}
+.logo-turning-point-1-4 {
+  position: absolute;
+  height: 5.57%;
+  width: 12.56%;
+  top: 0.12%;
+  right: 84.87%;
+  bottom: 94.31%;
+  left: 2.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.drug-resources {
+  position: relative;
+  background-color: #232323;
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: Lato;
+}

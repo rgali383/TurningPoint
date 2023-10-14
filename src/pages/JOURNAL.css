@@ -1,0 +1,359 @@
+.journal-child {
+  height: 18.72%;
+  width: 86.92%;
+  top: 65.88%;
+  right: 6.67%;
+  bottom: 15.4%;
+  left: 6.41%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+}
+.journal-child,
+.journal-child1,
+.journal-inner,
+.journal-item {
+  position: absolute;
+  border-radius: 20px;
+  backdrop-filter: blur(40px);
+  mix-blend-mode: normal;
+}
+.journal-item {
+  height: 18.72%;
+  width: 86.92%;
+  top: 41.71%;
+  right: 6.67%;
+  bottom: 39.57%;
+  left: 6.41%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+}
+.journal-child1,
+.journal-inner {
+  height: 2.37%;
+  top: 48.82%;
+  bottom: 48.82%;
+  left: 11.03%;
+}
+.journal-inner {
+  width: 47.44%;
+  right: 41.54%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(232, 232, 232, 0.32),
+    rgba(142, 202, 205, 0.24)
+  );
+}
+.journal-child1 {
+  width: 1.54%;
+  right: 87.44%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+}
+.b {
+  position: absolute;
+  height: 1.66%;
+  width: 31.54%;
+  top: 49.17%;
+  left: 12.82%;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.journal-child2,
+.journal-child3 {
+  position: absolute;
+  height: 2.37%;
+  top: 52.37%;
+  bottom: 45.26%;
+  left: 11.03%;
+  border-radius: 20px;
+  backdrop-filter: blur(40px);
+  mix-blend-mode: normal;
+}
+.journal-child2 {
+  width: 47.44%;
+  right: 41.54%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(232, 232, 232, 0.32),
+    rgba(142, 202, 205, 0.24)
+  );
+}
+.journal-child3 {
+  width: 1.54%;
+  right: 87.44%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+}
+.b1 {
+  position: absolute;
+  height: 1.66%;
+  width: 31.54%;
+  top: 52.73%;
+  left: 12.82%;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.journal-child4,
+.journal-child5 {
+  position: absolute;
+  height: 2.37%;
+  top: 55.92%;
+  bottom: 41.71%;
+  left: 11.03%;
+  border-radius: 20px;
+  backdrop-filter: blur(40px);
+  mix-blend-mode: normal;
+}
+.journal-child4 {
+  width: 47.44%;
+  right: 41.54%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(232, 232, 232, 0.32),
+    rgba(142, 202, 205, 0.24)
+  );
+}
+.journal-child5 {
+  width: 1.54%;
+  right: 87.44%;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+}
+.b2 {
+  position: absolute;
+  height: 1.66%;
+  width: 31.54%;
+  top: 56.28%;
+  left: 12.82%;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.journal-child6 {
+  position: absolute;
+  height: 18.72%;
+  width: 86.92%;
+  top: 18.6%;
+  right: 6.67%;
+  bottom: 62.68%;
+  left: 6.41%;
+  border-radius: 20px;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+  backdrop-filter: blur(40px);
+  mix-blend-mode: normal;
+}
+.what-would-it {
+  position: absolute;
+  height: 11.02%;
+  width: 72.82%;
+  top: 25.47%;
+  left: 12.82%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.daily-prompt,
+.new-entry,
+.your-journals {
+  position: absolute;
+  height: 3.44%;
+  width: 42.56%;
+  left: 11.79%;
+  display: inline-block;
+  text-align: left;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.daily-prompt {
+  top: 19.91%;
+  text-decoration: underline;
+}
+.new-entry,
+.your-journals {
+  top: 43.36%;
+}
+.new-entry {
+  top: 67.42%;
+  left: 10.77%;
+}
+.woman-meditates-under-a-rainbo1 {
+  position: absolute;
+  height: 12.53%;
+  width: 27.8%;
+  top: 70.41%;
+  right: 9.81%;
+  bottom: 17.06%;
+  left: 62.38%;
+}
+.your-journal {
+  position: absolute;
+  height: 6.52%;
+  width: 62.31%;
+  top: 3.44%;
+  left: 20.77%;
+  font-size: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.vector-icon5 {
+  position: absolute;
+  height: 10.8%;
+  width: 23.13%;
+  top: 16.8%;
+  right: -84.93%;
+  bottom: 72.4%;
+  left: 161.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.journal-child7 {
+  position: absolute;
+  height: 8.89%;
+  width: 120.77%;
+  top: 92.42%;
+  right: -10.26%;
+  bottom: -1.3%;
+  left: -10.51%;
+  border-radius: 20px;
+  background: linear-gradient(
+    139.51deg,
+    rgba(81, 232, 241, 0.32),
+    rgba(49, 186, 194, 0.24)
+  );
+  backdrop-filter: blur(40px);
+  mix-blend-mode: normal;
+}
+.bthome-icon1 {
+  position: absolute;
+  height: 5.33%;
+  width: 11.54%;
+  top: 93.48%;
+  right: 80%;
+  bottom: 1.18%;
+  left: 8.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.btcompg-icon {
+  right: 33.59%;
+  left: 54.87%;
+  cursor: pointer;
+}
+.btcompg-icon,
+.btdrugpg-icon1,
+.vector-icon10,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  height: 5.33%;
+  width: 11.54%;
+  top: 93.48%;
+  bottom: 1.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.btdrugpg-icon1 {
+  right: 56.92%;
+  left: 31.54%;
+  cursor: pointer;
+}
+.vector-icon10,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  right: 5.9%;
+  left: 82.56%;
+}
+.vector-icon10,
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  height: 6.28%;
+  width: 26.15%;
+  top: 72.51%;
+  right: 55.64%;
+  bottom: 21.21%;
+  left: 18.21%;
+}
+.vector-icon10,
+.vector-icon8,
+.vector-icon9 {
+  right: 30.51%;
+  left: 43.33%;
+}
+.vector-icon10,
+.vector-icon9 {
+  right: 11.54%;
+  left: 62.31%;
+}
+.vector-icon10 {
+  height: 2.01%;
+  width: 4.36%;
+  top: 74.17%;
+  right: 84.87%;
+  bottom: 23.82%;
+  left: 10.77%;
+}
+.gold-trophy-in-air,
+.logo-turning-point-1-6 {
+  position: absolute;
+  top: 346px;
+  left: 216px;
+  width: 165.07px;
+  height: 166.78px;
+  object-fit: cover;
+}
+.logo-turning-point-1-6 {
+  height: 5.57%;
+  width: 12.56%;
+  top: 0.12%;
+  right: 85.38%;
+  bottom: 94.31%;
+  left: 2.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.journal {
+  position: relative;
+  background-color: #232323;
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 25px;
+  color: #fff;
+  font-family: Lato;
+}
